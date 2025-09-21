@@ -1,12 +1,31 @@
-# React + Vite
+# React Tailwind Starter 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-4.4.0-green?logo=vite)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3.3-teal?logo=tailwind-css)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
-Currently, two official plugins are available:
+Un projet **React.js** pré-configuré avec **Tailwind CSS** et **Vite**, prêt à être utilisé comme base pour vos projets front-end modernes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Fonctionnalités
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Projet initialisé avec **Vite** pour un build ultra-rapide
+- **React 20.19.4**
+- **Tailwind CSS** configuré avec PostCSS et Autoprefixer
+- Support pour **Framer Motion** et animations
+- Structure de dossier claire pour les composants, pages et assets
+- Prêt pour **React Router** et intégration facile de librairies externes
+
+---
+
+## 💻 Installation
+
+Clonez le projet et installez les dépendances :
+
+```bash
+git clone https://github.com/yann-andronio/react-tailwind-starter.git
+cd react-tailwind-starter
+npm install
+npm run dev
